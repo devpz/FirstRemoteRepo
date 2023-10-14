@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Zmiana w międzyczasie w Repo2
+=======
+Zmiana nr.1, przed zmianami w Repo2
+
+
+Zmiana nr.3, po zmianach w Repo2
+>>>>>>> 5311258 (zmiany w nowy3.txt)
