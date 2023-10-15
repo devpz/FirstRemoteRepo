@@ -1,1 +1,0 @@
-# Paragon z warzywniaka
